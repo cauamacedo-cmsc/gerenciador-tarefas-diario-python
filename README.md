@@ -11,7 +11,7 @@ O sistema permite adicionar tarefas, definir horários, acompanhar o status das 
 🗑 Excluir tarefas
 📊 Organização da rotina diária
 
-🖥 Exemplo de uso
+🖥 Exemplo de uso:
 ROTINA DO DIA:
 1 - Academia | 18:00-19:00 | Pendente
 2 - Faculdade | 19:30-22:30 | Concluída
